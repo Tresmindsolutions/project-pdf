@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/project-pdf/static/css/main.ee5a3b98.chunk.css",
+    "main.js": "/project-pdf/static/js/main.809f056b.chunk.js",
+    "main.js.map": "/project-pdf/static/js/main.809f056b.chunk.js.map",
+    "runtime-main.js": "/project-pdf/static/js/runtime-main.47534a1d.js",
+    "runtime-main.js.map": "/project-pdf/static/js/runtime-main.47534a1d.js.map",
+    "static/js/2.99bb216d.chunk.js": "/project-pdf/static/js/2.99bb216d.chunk.js",
+    "static/js/2.99bb216d.chunk.js.map": "/project-pdf/static/js/2.99bb216d.chunk.js.map",
+    "index.html": "/project-pdf/index.html",
+    "precache-manifest.2ad581d81a054b9ddc738f66182eba5d.js": "/project-pdf/precache-manifest.2ad581d81a054b9ddc738f66182eba5d.js",
+    "service-worker.js": "/project-pdf/service-worker.js",
+    "static/css/main.ee5a3b98.chunk.css.map": "/project-pdf/static/css/main.ee5a3b98.chunk.css.map",
+    "static/js/2.99bb216d.chunk.js.LICENSE.txt": "/project-pdf/static/js/2.99bb216d.chunk.js.LICENSE.txt",
+    "static/media/first.jpg": "/project-pdf/static/media/first.85e32319.jpg",
+    "static/media/logo.svg": "/project-pdf/static/media/logo.5d5d9eef.svg",
+    "static/media/second.jpg": "/project-pdf/static/media/second.ae54154b.jpg",
+    "static/media/third.jpg": "/project-pdf/static/media/third.79917209.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47534a1d.js",
+    "static/js/2.99bb216d.chunk.js",
+    "static/css/main.ee5a3b98.chunk.css",
+    "static/js/main.809f056b.chunk.js"
+  ]
+}
