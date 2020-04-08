@@ -1,0 +1,21 @@
+.customForm{
+    border:0px;
+    background:none;
+    padding-left:10px;
+    letter-spacing:7px;
+    outline:none;
+    font-family:Arial,serif;
+    font-size:9.1px;
+}
+.dispVal{
+    color:black;
+    padding:10PX;
+    letter-spacing:7px;
+}
+
+.radioBtn{
+    background: transparent;
+    padding:0px;
+    margin: 0;
+    border:0;
+}
